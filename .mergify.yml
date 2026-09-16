@@ -1,7 +1,0 @@
-pull_request_rules:
-  - name: inert command fixture
-    conditions:
-      - label = vm4-never-command-fixture
-    actions:
-      comment:
-        message: inert
